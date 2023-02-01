@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: 'roboto', sans-serif;
+    border: 2px solid black;
+    padding: 7px;
+    margin-top: 45px;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-weight: bold;
+    color:blue;
+}
+/**
+Esto es un comentario dentro de un documento de CSS
+*/
+
+h2 {
+    font-family: 'Segoe UI';
+    color:rgb(140, 0, 255);
+}
